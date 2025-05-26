@@ -1,5 +1,0 @@
-pandas
-nba_api
-plotly
-dash
-dash-bootstrap-components
